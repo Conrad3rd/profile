@@ -1,0 +1,82 @@
+body {
+  background-color: rgb(103, 141, 117);
+  background-image: url(images/shuttergames-njGrQxgsp5Y-unsplash.jpg);
+}
+h1 {
+
+  font-size: 7rem;
+  background-color: azure;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+
+}
+a {
+  text-decoration: none;
+  color: cornsilk;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 5px;
+  font-size: 50px;
+}
+
+#logo {
+  height: 27rm;
+}
+
+.profile {
+  height: 50px;
+  width: 50px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+
+}
+
+.card-white {
+  text-align: center;
+  border-radius: 5px;
+  background-color: rgba(22, 78, 0, 0.5);
+  margin: 30px 0 30px 0;
+  padding: 30px;
+}
+
+
+.btn-medium {
+  color: #999999;
+  border: 1px solid #999999;
+  padding: 10px 15px;
+  border-radius: 50px;
+  font-weight: lighter;
+  font-size: 2rem;
+  /* opacity: 0.6; */
+  background-color: #1a1a1a;
+}
+
+#footer {
+  border-radius: 50px 200px 50px 200px;
+}
+
+.btn-medium:hover {
+  /* background-color: #00ff2a; */
+}
+
+
+a:hover {
+  color: #00ff2a;
+}
+
+p {
+  font-size: 2rem;
+}
